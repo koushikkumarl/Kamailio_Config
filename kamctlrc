@@ -1,0 +1,19 @@
+### kamctl configuration file
+
+SIP_DOMAIN="example.com" ## Optional
+
+DBENGINE=PGSQL
+
+DBHOST=127.0.0.1
+DBPORT=5432
+
+DBNAME=dev-kamailio
+
+DBRWUSER=kamailio
+DBRWPW=Ab9xL2qP7zk3
+
+DBROUSER=kamailio
+DBROPW=Ab9xL2qP7zk3
+
+DBROOTUSER=postgres
+DBROOTPW="your_postgres_superuser_password"
